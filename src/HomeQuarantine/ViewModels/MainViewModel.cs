@@ -333,6 +333,10 @@ namespace HomeQuarantine.ViewModels
 			this.openUrlService = openUrlService;
 			this.settingsService = settingsService;
 			this.apiService = apiService;
+			this.eventService.GetLatestNotificationsEvent += async delegate
+			{
+				await LoadNotifications();
+			};
 		}
 
 		public override async Task InitializeAsync(object navigationData)

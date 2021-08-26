@@ -47,5 +47,12 @@ namespace HomeQuarantine.Services.SystemStateService
 		public event Action<AppVersion> AppVersionUpdated;
 
 		public event Action<bool> ShouldRegisterDeviceUpdated;
+
+		public event Action GetLatestNotificationsEvent;
+
+		public void GetLatestNotifications()
+		{
+			this.GetLatestNotificationsEvent?.Invoke();
+		}
 	}
 }

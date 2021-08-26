@@ -109,11 +109,6 @@ namespace HomeQuarantine.ViewModels
 		public async void Failure(string feedbackCode)
 		{
 			ResetState();
-			if (feedbackCode == IProovFailCode.AmbiguousOutcome.GetDescription())
-			{
-				await SubmitComplianceCheck();
-				return;
-			}
 			string failureReason = GetFailureReason(feedbackCode);
 			await Application.get_Current().get_MainPage().DisplayAlert(Resources.LivenessCheckView_PleaseTryAgain, failureReason, Resources.Button_Ok);
 		}

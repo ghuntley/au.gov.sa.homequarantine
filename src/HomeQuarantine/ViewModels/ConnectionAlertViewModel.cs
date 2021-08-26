@@ -42,7 +42,10 @@ namespace HomeQuarantine.ViewModels
 		private async Task OnResume()
 		{
 			await navigationService.PopModalAsync();
-			await RetryCommand.ExecuteAsync();
+			if (RetryCommand != null)
+			{
+				await RetryCommand.ExecuteAsync();
+			}
 		}
 	}
 }

@@ -1,4 +1,5 @@
 using System.Threading.Tasks;
+using HomeQuarantine.Helpers;
 
 namespace HomeQuarantine.Services.Network
 {
@@ -6,6 +7,6 @@ namespace HomeQuarantine.Services.Network
 	{
 		bool IsConnectedToInternet { get; }
 
-		Task LaunchNotConnectedAlert();
+		Task LaunchNotConnectedAlert(IAsyncCommand retryCommand = null);
 	}
 }

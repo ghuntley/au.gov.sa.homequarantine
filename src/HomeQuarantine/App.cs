@@ -9,6 +9,7 @@ using HomeQuarantine.Data.Models.Enums;
 using HomeQuarantine.Helpers;
 using HomeQuarantine.Services.DeviceSecurity;
 using HomeQuarantine.Services.Navigation;
+using HomeQuarantine.Services.Network;
 using HomeQuarantine.Services.Permissions;
 using HomeQuarantine.ViewModels;
 using HomeQuarantine.ViewModels.Base;
@@ -60,8 +61,30 @@ namespace HomeQuarantine
 			ThemeHelper.UpdateTheme(AppInfo.get_RequestedTheme());
 			await PerformAppActions();
 			await CheckAppPermissions();
-			IDeviceSecurityService securityService = ViewModelLocator.Resolve<IDeviceSecurityService>();
-			await Task.Run(async () => await securityService.GetAppIsExpired());
+			await CheckConnectionAndExpiry();
+		}
+
+		public async Task CheckConnectionAndExpiry()
+		{
+			INetworkService networkService = ViewModelLocator.Resolve<INetworkService>();
+			if (!networkService.IsConnectedToInternet)
+			{
+				INavigation navigation = ((NavigableElement)Application.get_Current().get_MainPage()).get_Navigation();
+				Page obj = ((navigation == null) ? null : navigation.get_ModalStack()?.LastOrDefault());
+				Page obj2 = ((obj is NavigationPage) ? obj : null);
+				if (!(((obj2 != null) ? ((NavigationPage)obj2).get_CurrentPage() : null) is ConnectionAlertView))
+				{
+					await networkService.LaunchNotConnectedAlert(new AsyncCommand(async delegate
+					{
+						await CheckConnectionAndExpiry();
+					}));
+				}
+			}
+			else
+			{
+				IDeviceSecurityService securityService = ViewModelLocator.Resolve<IDeviceSecurityService>();
+				await Task.Run(async () => await securityService.GetAppIsExpired());
+			}
 		}
 
 		public void RequestCloseOnBackButton(Action<BackButtonAction> callback)

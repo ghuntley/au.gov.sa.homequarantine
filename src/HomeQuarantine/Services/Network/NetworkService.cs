@@ -1,7 +1,10 @@
 using System.Threading.Tasks;
-using HomeQuarantine.Data.Resources.Languages;
+using HomeQuarantine.Helpers;
+using HomeQuarantine.Services.Dependency;
+using HomeQuarantine.Services.Navigation;
+using HomeQuarantine.ViewModels;
+using HomeQuarantine.ViewModels.Base;
 using Xamarin.Essentials;
-using Xamarin.Forms;
 
 namespace HomeQuarantine.Services.Network
 {
@@ -9,11 +12,15 @@ namespace HomeQuarantine.Services.Network
 	{
 		public bool IsConnectedToInternet => (int)Connectivity.get_NetworkAccess() == 4;
 
-		public async Task LaunchNotConnectedAlert()
+		public async Task LaunchNotConnectedAlert(IAsyncCommand retryCommand = null)
 		{
 			if (!IsConnectedToInternet)
 			{
-				await Application.get_Current().get_MainPage().DisplayAlert(Resources.NoConnection_Prompt_Title, Resources.NoConnection_Prompt_Body, Resources.NoConnection_Prompt_Button);
+				INavigationService navigationService = ViewModelLocator.Resolve<INavigationService>();
+				await navigationService.PushModalAsync(null, new ConnectionAlertViewModel(navigationService, ViewModelLocator.Resolve<IDependencyService>())
+				{
+					RetryCommand = retryCommand
+				});
 			}
 		}
 	}
