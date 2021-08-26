@@ -3287,13 +3287,15 @@ namespace HomeQuarantine.Droid
 
 			public const int Redirect = 2131231021;
 
-			public const int splash_screen = 2131231022;
+			public const int SAGov = 2131231022;
 
-			public const int test_custom_background = 2131231023;
+			public const int splash_screen = 2131231023;
 
-			public const int tooltip_frame_dark = 2131231024;
+			public const int test_custom_background = 2131231024;
 
-			public const int tooltip_frame_light = 2131231025;
+			public const int tooltip_frame_dark = 2131231025;
+
+			public const int tooltip_frame_light = 2131231026;
 
 			static Drawable()
 			{
@@ -9596,8 +9598,8 @@ namespace HomeQuarantine.Droid
 			Drawable.notification_template_icon_low_bg = 2131231009;
 			Drawable.notification_tile_bg = 2131231010;
 			Drawable.notify_panel_notification_icon_bg = 2131231011;
-			Drawable.tooltip_frame_dark = 2131231024;
-			Drawable.tooltip_frame_light = 2131231025;
+			Drawable.tooltip_frame_dark = 2131231025;
+			Drawable.tooltip_frame_light = 2131231026;
 			Id.accessibility_action_clickable_span = 2131296266;
 			Id.accessibility_custom_action_0 = 2131296267;
 			Id.accessibility_custom_action_1 = 2131296268;
@@ -12313,9 +12315,9 @@ namespace HomeQuarantine.Droid
 			Drawable.notification_template_icon_low_bg = 2131231009;
 			Drawable.notification_tile_bg = 2131231010;
 			Drawable.notify_panel_notification_icon_bg = 2131231011;
-			Drawable.test_custom_background = 2131231023;
-			Drawable.tooltip_frame_dark = 2131231024;
-			Drawable.tooltip_frame_light = 2131231025;
+			Drawable.test_custom_background = 2131231024;
+			Drawable.tooltip_frame_dark = 2131231025;
+			Drawable.tooltip_frame_light = 2131231026;
 			Id.accessibility_action_clickable_span = 2131296266;
 			Id.accessibility_custom_action_0 = 2131296267;
 			Id.accessibility_custom_action_1 = 2131296268;
@@ -16007,9 +16009,9 @@ namespace HomeQuarantine.Droid
 			Drawable.notification_template_icon_low_bg = 2131231009;
 			Drawable.notification_tile_bg = 2131231010;
 			Drawable.notify_panel_notification_icon_bg = 2131231011;
-			Drawable.test_custom_background = 2131231023;
-			Drawable.tooltip_frame_dark = 2131231024;
-			Drawable.tooltip_frame_light = 2131231025;
+			Drawable.test_custom_background = 2131231024;
+			Drawable.tooltip_frame_dark = 2131231025;
+			Drawable.tooltip_frame_light = 2131231026;
 			Id.accessibility_action_clickable_span = 2131296266;
 			Id.accessibility_custom_action_0 = 2131296267;
 			Id.accessibility_custom_action_1 = 2131296268;

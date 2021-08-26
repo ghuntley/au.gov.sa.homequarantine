@@ -86,37 +86,44 @@ namespace HomeQuarantine.Services.DeviceSecurity
 		public async Task<bool> GetAppIsExpired()
 		{
 			string versionString = dependencyService.Get<IEnvironmentService>().GetVersionString();
-			AppVersion appVersion = await experienceApiService.VerifyAppVersion(versionString);
-			if (appVersion != null)
+			try
 			{
-				eventService.AppVersion = appVersion;
-				INavigation navigation = ((NavigableElement)Application.get_Current().get_MainPage()).get_Navigation();
-				object obj;
-				if (navigation == null)
+				AppVersion appVersion = await experienceApiService.VerifyAppVersion(versionString);
+				if (appVersion != null)
 				{
-					obj = null;
-				}
-				else
-				{
-					Page obj2 = navigation.get_ModalStack().LastOrDefault();
-					obj = ((obj2 == null) ? null : ((NavigableElement)obj2).get_Navigation().get_NavigationStack()?.LastOrDefault());
-				}
-				Page val = (Page)obj;
-				INavigation navigation2 = ((NavigableElement)Application.get_Current().get_MainPage()).get_Navigation();
-				if (navigation2 == null || !(navigation2.get_ModalStack()?.Count > 0) || !(((val != null) ? ((BindableObject)val).get_BindingContext() : null) is OnboardingHelpViewModel))
-				{
-					if (appVersion.Expired)
+					eventService.AppVersion = appVersion;
+					INavigation navigation = ((NavigableElement)Application.get_Current().get_MainPage()).get_Navigation();
+					object obj;
+					if (navigation == null)
 					{
-						await navigationService.PushModalAsync(null, App.Constants.AppVersionExpiredViewModel);
-						return true;
+						obj = null;
 					}
-					if (!appVersion.LatestVersion && !settingsService.HasShownAppVersionOutdatedPage)
+					else
 					{
-						await navigationService.PushModalAsync(null, App.Constants.AppVersionOutdatedViewModel);
-						settingsService.HasShownAppVersionOutdatedPage = true;
-						return true;
+						Page obj2 = navigation.get_ModalStack().LastOrDefault();
+						obj = ((obj2 == null) ? null : ((NavigableElement)obj2).get_Navigation().get_NavigationStack()?.LastOrDefault());
+					}
+					Page val = (Page)obj;
+					INavigation navigation2 = ((NavigableElement)Application.get_Current().get_MainPage()).get_Navigation();
+					if (navigation2 == null || !(navigation2.get_ModalStack()?.Count > 0) || !(((val != null) ? ((BindableObject)val).get_BindingContext() : null) is OnboardingHelpViewModel))
+					{
+						if (appVersion.Expired)
+						{
+							await navigationService.PushModalAsync(null, App.Constants.AppVersionExpiredViewModel);
+							return true;
+						}
+						if (!appVersion.LatestVersion && !settingsService.HasShownAppVersionOutdatedPage)
+						{
+							await navigationService.PushModalAsync(null, App.Constants.AppVersionOutdatedViewModel);
+							settingsService.HasShownAppVersionOutdatedPage = true;
+							return true;
+						}
 					}
 				}
+			}
+			catch
+			{
+				return false;
 			}
 			return false;
 		}

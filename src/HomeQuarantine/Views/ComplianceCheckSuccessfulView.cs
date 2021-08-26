@@ -33,15 +33,15 @@ namespace HomeQuarantine.Views
 			InitializeComponent();
 		}
 
-		protected override void OnAppearing()
-		{
-			base.OnAppearing();
-			(((BindableObject)this).get_BindingContext() as ComplianceCheckSuccessfulViewModel).PopAllPreviousPagesCommand.Execute(null);
-		}
-
 		public async Task Dismiss()
 		{
-			await ((NavigableElement)Application.get_Current().get_MainPage()).get_Navigation().PopModalAsync();
+			await (((BindableObject)this).get_BindingContext() as ComplianceCheckSuccessfulViewModel).CloseCommand.ExecuteAsync();
+		}
+
+		protected override async void OnAppearing()
+		{
+			base.OnAppearing();
+			await (((BindableObject)this).get_BindingContext() as ComplianceCheckSuccessfulViewModel).PopAllPreviousPagesCommand.ExecuteAsync();
 		}
 
 		[GeneratedCode("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

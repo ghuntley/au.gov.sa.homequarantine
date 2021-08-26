@@ -73,8 +73,6 @@ namespace HomeQuarantine.Views
 			//IL_002c: Unknown result type (might be due to invalid IL or missing references)
 			//IL_0037: Unknown result type (might be due to invalid IL or missing references)
 			//IL_0043: Expected O, but got Unknown
-			//IL_006e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0074: Expected O, but got Unknown
 			//IL_0086: Unknown result type (might be due to invalid IL or missing references)
 			//IL_008d: Expected O, but got Unknown
 			//IL_008d: Unknown result type (might be due to invalid IL or missing references)
@@ -112,92 +110,92 @@ namespace HomeQuarantine.Views
 			//IL_015f: Unknown result type (might be due to invalid IL or missing references)
 			//IL_0166: Expected O, but got Unknown
 			//IL_0173: Unknown result type (might be due to invalid IL or missing references)
-			//IL_036e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_03a8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_03be: Unknown result type (might be due to invalid IL or missing references)
-			//IL_03e8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_03ed: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0420: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0425: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0428: Expected O, but got Unknown
-			//IL_042d: Expected O, but got Unknown
-			//IL_042d: Unknown result type (might be due to invalid IL or missing references)
-			//IL_043f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0359: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0393: Unknown result type (might be due to invalid IL or missing references)
+			//IL_03a9: Unknown result type (might be due to invalid IL or missing references)
+			//IL_03d3: Unknown result type (might be due to invalid IL or missing references)
+			//IL_03d8: Unknown result type (might be due to invalid IL or missing references)
+			//IL_040b: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0410: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0413: Expected O, but got Unknown
+			//IL_0418: Expected O, but got Unknown
+			//IL_0418: Unknown result type (might be due to invalid IL or missing references)
+			//IL_042a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0435: Unknown result type (might be due to invalid IL or missing references)
+			//IL_043a: Unknown result type (might be due to invalid IL or missing references)
 			//IL_044a: Unknown result type (might be due to invalid IL or missing references)
-			//IL_044f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_045f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_046f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_047f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_048f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_049f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_04af: Unknown result type (might be due to invalid IL or missing references)
-			//IL_04d8: Expected O, but got Unknown
-			//IL_04d3: Unknown result type (might be due to invalid IL or missing references)
-			//IL_04dd: Expected O, but got Unknown
-			//IL_04dd: Unknown result type (might be due to invalid IL or missing references)
-			//IL_04ec: Unknown result type (might be due to invalid IL or missing references)
-			//IL_04f6: Expected O, but got Unknown
-			//IL_04f1: Unknown result type (might be due to invalid IL or missing references)
-			//IL_04fb: Expected O, but got Unknown
-			//IL_0500: Expected O, but got Unknown
-			//IL_051c: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0577: Unknown result type (might be due to invalid IL or missing references)
-			//IL_058d: Unknown result type (might be due to invalid IL or missing references)
-			//IL_05bd: Unknown result type (might be due to invalid IL or missing references)
-			//IL_05c2: Unknown result type (might be due to invalid IL or missing references)
-			//IL_05f5: Unknown result type (might be due to invalid IL or missing references)
-			//IL_05fa: Unknown result type (might be due to invalid IL or missing references)
-			//IL_05fd: Expected O, but got Unknown
-			//IL_0602: Expected O, but got Unknown
-			//IL_0602: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0614: Unknown result type (might be due to invalid IL or missing references)
+			//IL_045a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_046a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_047a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_048a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_049a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_04c3: Expected O, but got Unknown
+			//IL_04be: Unknown result type (might be due to invalid IL or missing references)
+			//IL_04c8: Expected O, but got Unknown
+			//IL_04c8: Unknown result type (might be due to invalid IL or missing references)
+			//IL_04d7: Unknown result type (might be due to invalid IL or missing references)
+			//IL_04e1: Expected O, but got Unknown
+			//IL_04dc: Unknown result type (might be due to invalid IL or missing references)
+			//IL_04e6: Expected O, but got Unknown
+			//IL_04eb: Expected O, but got Unknown
+			//IL_0507: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0562: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0578: Unknown result type (might be due to invalid IL or missing references)
+			//IL_05a8: Unknown result type (might be due to invalid IL or missing references)
+			//IL_05ad: Unknown result type (might be due to invalid IL or missing references)
+			//IL_05e0: Unknown result type (might be due to invalid IL or missing references)
+			//IL_05e5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_05e8: Expected O, but got Unknown
+			//IL_05ed: Expected O, but got Unknown
+			//IL_05ed: Unknown result type (might be due to invalid IL or missing references)
+			//IL_05ff: Unknown result type (might be due to invalid IL or missing references)
+			//IL_060a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_060f: Unknown result type (might be due to invalid IL or missing references)
 			//IL_061f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0624: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0634: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0644: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0654: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0664: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0674: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0684: Unknown result type (might be due to invalid IL or missing references)
-			//IL_06ad: Expected O, but got Unknown
-			//IL_06a8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_06b2: Expected O, but got Unknown
-			//IL_06b2: Unknown result type (might be due to invalid IL or missing references)
-			//IL_06c1: Unknown result type (might be due to invalid IL or missing references)
-			//IL_06cb: Expected O, but got Unknown
-			//IL_06c6: Unknown result type (might be due to invalid IL or missing references)
-			//IL_06d0: Expected O, but got Unknown
-			//IL_06d5: Expected O, but got Unknown
-			//IL_0715: Unknown result type (might be due to invalid IL or missing references)
-			//IL_074f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0786: Unknown result type (might be due to invalid IL or missing references)
-			//IL_078b: Unknown result type (might be due to invalid IL or missing references)
-			//IL_07c8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_07cd: Unknown result type (might be due to invalid IL or missing references)
-			//IL_07d0: Expected O, but got Unknown
-			//IL_07d5: Expected O, but got Unknown
-			//IL_07d5: Unknown result type (might be due to invalid IL or missing references)
-			//IL_07e7: Unknown result type (might be due to invalid IL or missing references)
+			//IL_062f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_063f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_064f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_065f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_066f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0698: Expected O, but got Unknown
+			//IL_0693: Unknown result type (might be due to invalid IL or missing references)
+			//IL_069d: Expected O, but got Unknown
+			//IL_069d: Unknown result type (might be due to invalid IL or missing references)
+			//IL_06ac: Unknown result type (might be due to invalid IL or missing references)
+			//IL_06b6: Expected O, but got Unknown
+			//IL_06b1: Unknown result type (might be due to invalid IL or missing references)
+			//IL_06bb: Expected O, but got Unknown
+			//IL_06c0: Expected O, but got Unknown
+			//IL_0700: Unknown result type (might be due to invalid IL or missing references)
+			//IL_073a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0771: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0776: Unknown result type (might be due to invalid IL or missing references)
+			//IL_07b3: Unknown result type (might be due to invalid IL or missing references)
+			//IL_07b8: Unknown result type (might be due to invalid IL or missing references)
+			//IL_07bb: Expected O, but got Unknown
+			//IL_07c0: Expected O, but got Unknown
+			//IL_07c0: Unknown result type (might be due to invalid IL or missing references)
+			//IL_07d2: Unknown result type (might be due to invalid IL or missing references)
+			//IL_07dd: Unknown result type (might be due to invalid IL or missing references)
+			//IL_07e2: Unknown result type (might be due to invalid IL or missing references)
 			//IL_07f2: Unknown result type (might be due to invalid IL or missing references)
-			//IL_07f7: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0807: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0817: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0827: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0837: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0847: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0857: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0880: Expected O, but got Unknown
-			//IL_087b: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0885: Expected O, but got Unknown
-			//IL_0885: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0894: Unknown result type (might be due to invalid IL or missing references)
-			//IL_089e: Expected O, but got Unknown
-			//IL_0899: Unknown result type (might be due to invalid IL or missing references)
-			//IL_08a3: Expected O, but got Unknown
-			//IL_08a8: Expected O, but got Unknown
-			//IL_0906: Unknown result type (might be due to invalid IL or missing references)
-			//IL_092a: Unknown result type (might be due to invalid IL or missing references)
-			//IL_0980: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0802: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0812: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0822: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0832: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0842: Unknown result type (might be due to invalid IL or missing references)
+			//IL_086b: Expected O, but got Unknown
+			//IL_0866: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0870: Expected O, but got Unknown
+			//IL_0870: Unknown result type (might be due to invalid IL or missing references)
+			//IL_087f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0889: Expected O, but got Unknown
+			//IL_0884: Unknown result type (might be due to invalid IL or missing references)
+			//IL_088e: Expected O, but got Unknown
+			//IL_0893: Expected O, but got Unknown
+			//IL_08f1: Unknown result type (might be due to invalid IL or missing references)
+			//IL_0915: Unknown result type (might be due to invalid IL or missing references)
+			//IL_096b: Unknown result type (might be due to invalid IL or missing references)
 			if (ResourceLoader.get_IsEnabled())
 			{
 				ResourceLoadingQuery val = new ResourceLoadingQuery();
@@ -215,244 +213,242 @@ namespace HomeQuarantine.Views
 				__InitComponentRuntime();
 				return;
 			}
-			BindingExtension val2 = new BindingExtension();
+			string hasSymptomView_MonitoringSymptoms = Resources.HasSymptomView_MonitoringSymptoms;
 			FirstValidationErrorConverter firstValidationErrorConverter = new FirstValidationErrorConverter();
 			InverseBoolConverter inverseBoolConverter = new InverseBoolConverter();
 			string noSymptomView_NoNewSymptoms = Resources.NoSymptomView_NoNewSymptoms;
-			DynamicResourceExtension val3 = new DynamicResourceExtension();
-			Label val4 = new Label();
+			DynamicResourceExtension val2 = new DynamicResourceExtension();
+			Label val3 = new Label();
 			string noSymptomView_YouHaveSubmittedYourDailySymptomCheck = Resources.NoSymptomView_YouHaveSubmittedYourDailySymptomCheck;
-			Label val5 = new Label();
+			Label val4 = new Label();
+			DynamicResourceExtension val5 = new DynamicResourceExtension();
 			DynamicResourceExtension val6 = new DynamicResourceExtension();
-			DynamicResourceExtension val7 = new DynamicResourceExtension();
-			BoxView val8 = new BoxView();
+			BoxView val7 = new BoxView();
 			string noSymptomView_TakingCareOfYourHealthAndWellBeing = Resources.NoSymptomView_TakingCareOfYourHealthAndWellBeing;
-			Label val9 = new Label();
+			Label val8 = new Label();
 			string noSymptomView_HealthDescription = Resources.NoSymptomView_HealthDescription;
-			Label val10 = new Label();
+			Label val9 = new Label();
 			string noSymptomView_MentalHealthSupport = Resources.NoSymptomView_MentalHealthSupport;
-			BindingExtension val11 = new BindingExtension();
+			BindingExtension val10 = new BindingExtension();
 			ResourceLinkView resourceLinkView = new ResourceLinkView();
 			string noSymptomView_UsingtechnologyToStayConnected = Resources.NoSymptomView_UsingtechnologyToStayConnected;
-			BindingExtension val12 = new BindingExtension();
+			BindingExtension val11 = new BindingExtension();
 			ResourceLinkView resourceLinkView2 = new ResourceLinkView();
 			string noSymptomView_StayActiveAndhealthy = Resources.NoSymptomView_StayActiveAndhealthy;
-			BindingExtension val13 = new BindingExtension();
+			BindingExtension val12 = new BindingExtension();
 			ResourceLinkView resourceLinkView3 = new ResourceLinkView();
 			string noSymptomView_Mindfulness = Resources.NoSymptomView_Mindfulness;
-			BindingExtension val14 = new BindingExtension();
+			BindingExtension val13 = new BindingExtension();
 			ResourceLinkView resourceLinkView4 = new ResourceLinkView();
 			string noSymptomView_ServiceandSupport = Resources.NoSymptomView_ServiceandSupport;
-			BindingExtension val15 = new BindingExtension();
+			BindingExtension val14 = new BindingExtension();
 			ResourceLinkView resourceLinkView5 = new ResourceLinkView();
+			StackLayout val15 = new StackLayout();
 			StackLayout val16 = new StackLayout();
-			StackLayout val17 = new StackLayout();
 			ShadowFrame shadowFrame = new ShadowFrame();
-			StackLayout val18 = new StackLayout();
-			ScrollView val19 = new ScrollView();
-			StackLayout val20 = new StackLayout();
+			StackLayout val17 = new StackLayout();
+			ScrollView val18 = new ScrollView();
+			StackLayout val19 = new StackLayout();
 			NoSymptomResultView noSymptomResultView;
-			NameScope val21 = (NameScope)(((object)NameScope.GetNameScope((BindableObject)(object)(noSymptomResultView = this))) ?? ((object)new NameScope()));
-			NameScope.SetNameScope((BindableObject)(object)noSymptomResultView, (INameScope)(object)val21);
-			((INameScope)val21).RegisterName("containingView", (object)val18);
-			if (((Element)val18).get_StyleId() == null)
+			NameScope val20 = (NameScope)(((object)NameScope.GetNameScope((BindableObject)(object)(noSymptomResultView = this))) ?? ((object)new NameScope()));
+			NameScope.SetNameScope((BindableObject)(object)noSymptomResultView, (INameScope)(object)val20);
+			((INameScope)val20).RegisterName("containingView", (object)val17);
+			if (((Element)val17).get_StyleId() == null)
 			{
-				((Element)val18).set_StyleId("containingView");
+				((Element)val17).set_StyleId("containingView");
 			}
-			((INameScope)val21).RegisterName("submittedDailySymptomCheck", (object)val5);
-			if (((Element)val5).get_StyleId() == null)
+			((INameScope)val20).RegisterName("submittedDailySymptomCheck", (object)val4);
+			if (((Element)val4).get_StyleId() == null)
 			{
-				((Element)val5).set_StyleId("submittedDailySymptomCheck");
+				((Element)val4).set_StyleId("submittedDailySymptomCheck");
 			}
-			((INameScope)val21).RegisterName("takingCareOfYourHealthAndWellBeing", (object)val9);
+			((INameScope)val20).RegisterName("takingCareOfYourHealthAndWellBeing", (object)val8);
+			if (((Element)val8).get_StyleId() == null)
+			{
+				((Element)val8).set_StyleId("takingCareOfYourHealthAndWellBeing");
+			}
+			((INameScope)val20).RegisterName("healthDescription", (object)val9);
 			if (((Element)val9).get_StyleId() == null)
 			{
-				((Element)val9).set_StyleId("takingCareOfYourHealthAndWellBeing");
+				((Element)val9).set_StyleId("healthDescription");
 			}
-			((INameScope)val21).RegisterName("healthDescription", (object)val10);
-			if (((Element)val10).get_StyleId() == null)
-			{
-				((Element)val10).set_StyleId("healthDescription");
-			}
-			((INameScope)val21).RegisterName("mentalHealthSupport", (object)resourceLinkView);
+			((INameScope)val20).RegisterName("mentalHealthSupport", (object)resourceLinkView);
 			if (((Element)resourceLinkView).get_StyleId() == null)
 			{
 				((Element)resourceLinkView).set_StyleId("mentalHealthSupport");
 			}
-			((INameScope)val21).RegisterName("usingTechnologyToStayConnected", (object)resourceLinkView2);
+			((INameScope)val20).RegisterName("usingTechnologyToStayConnected", (object)resourceLinkView2);
 			if (((Element)resourceLinkView2).get_StyleId() == null)
 			{
 				((Element)resourceLinkView2).set_StyleId("usingTechnologyToStayConnected");
 			}
-			((INameScope)val21).RegisterName("stayingActiveAndHealthy", (object)resourceLinkView3);
+			((INameScope)val20).RegisterName("stayingActiveAndHealthy", (object)resourceLinkView3);
 			if (((Element)resourceLinkView3).get_StyleId() == null)
 			{
 				((Element)resourceLinkView3).set_StyleId("stayingActiveAndHealthy");
 			}
-			((INameScope)val21).RegisterName("mindfulness", (object)resourceLinkView4);
+			((INameScope)val20).RegisterName("mindfulness", (object)resourceLinkView4);
 			if (((Element)resourceLinkView4).get_StyleId() == null)
 			{
 				((Element)resourceLinkView4).set_StyleId("mindfulness");
 			}
-			((INameScope)val21).RegisterName("serviceAndSupport", (object)resourceLinkView5);
+			((INameScope)val20).RegisterName("serviceAndSupport", (object)resourceLinkView5);
 			if (((Element)resourceLinkView5).get_StyleId() == null)
 			{
 				((Element)resourceLinkView5).set_StyleId("serviceAndSupport");
 			}
-			containingView = val18;
-			submittedDailySymptomCheck = val5;
-			takingCareOfYourHealthAndWellBeing = val9;
-			healthDescription = val10;
+			containingView = val17;
+			submittedDailySymptomCheck = val4;
+			takingCareOfYourHealthAndWellBeing = val8;
+			healthDescription = val9;
 			mentalHealthSupport = resourceLinkView;
 			usingTechnologyToStayConnected = resourceLinkView2;
 			stayingActiveAndHealthy = resourceLinkView3;
 			mindfulness = resourceLinkView4;
 			serviceAndSupport = resourceLinkView5;
 			((BindableObject)noSymptomResultView).SetValue(ViewModelLocator.AutoWireViewModelProperty, (object)true);
-			val2.set_Path("Title");
-			BindingBase val22 = ((IMarkupExtension<BindingBase>)(object)val2).ProvideValue((IServiceProvider)null);
-			((BindableObject)noSymptomResultView).SetBinding(Page.TitleProperty, val22);
+			((BindableObject)noSymptomResultView).SetValue(Page.TitleProperty, (object)hasSymptomView_MonitoringSymptoms);
 			((VisualElement)noSymptomResultView).get_Resources().Add("FirstValidationErrorConverter", (object)firstValidationErrorConverter);
 			((VisualElement)noSymptomResultView).get_Resources().Add("InverseBoolConverter", (object)inverseBoolConverter);
-			((BindableObject)val20).SetValue(View.VerticalOptionsProperty, (object)LayoutOptions.FillAndExpand);
-			((BindableObject)val19).SetValue(Layout.PaddingProperty, (object)new Thickness(16.0, 24.0, 16.0, 24.0));
 			((BindableObject)val19).SetValue(View.VerticalOptionsProperty, (object)LayoutOptions.FillAndExpand);
-			((BindableObject)val4).SetValue(Label.TextProperty, (object)noSymptomView_NoNewSymptoms);
-			val3.set_Key("Heading1");
-			XamlServiceProvider val23 = new XamlServiceProvider();
+			((BindableObject)val18).SetValue(Layout.PaddingProperty, (object)new Thickness(16.0, 24.0, 16.0, 24.0));
+			((BindableObject)val18).SetValue(View.VerticalOptionsProperty, (object)LayoutOptions.FillAndExpand);
+			((BindableObject)val3).SetValue(Label.TextProperty, (object)noSymptomView_NoNewSymptoms);
+			val2.set_Key("Heading1");
+			XamlServiceProvider val21 = new XamlServiceProvider();
 			Type typeFromHandle = typeof(IProvideValueTarget);
 			object[] array = new object[0 + 5];
-			array[0] = val4;
-			array[1] = val18;
-			array[2] = val19;
-			array[3] = val20;
+			array[0] = val3;
+			array[1] = val17;
+			array[2] = val18;
+			array[3] = val19;
 			array[4] = noSymptomResultView;
-			SimpleValueTargetProvider val24 = new SimpleValueTargetProvider(array, (object)VisualElement.StyleProperty, (INameScope)(object)val21);
-			object obj = (object)val24;
-			val23.Add(typeFromHandle, (object)val24);
-			val23.Add(typeof(IReferenceProvider), obj);
+			SimpleValueTargetProvider val22 = new SimpleValueTargetProvider(array, (object)VisualElement.StyleProperty, (INameScope)(object)val20);
+			object obj = (object)val22;
+			val21.Add(typeFromHandle, (object)val22);
+			val21.Add(typeof(IReferenceProvider), obj);
 			Type typeFromHandle2 = typeof(IXamlTypeResolver);
-			XmlNamespaceResolver val25 = new XmlNamespaceResolver();
-			val25.Add("", "http://xamarin.com/schemas/2014/forms");
-			val25.Add("x", "http://schemas.microsoft.com/winfx/2009/xaml");
-			val25.Add("local", "clr-namespace:HomeQuarantine.Views.Base");
-			val25.Add("converters", "clr-namespace:HomeQuarantine.Converters");
-			val25.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
-			val25.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
-			val25.Add("controls", "clr-namespace:HomeQuarantine.Controls");
-			val23.Add(typeFromHandle2, (object)new XamlTypeResolver((IXmlNamespaceResolver)val25, typeof(NoSymptomResultView).GetTypeInfo().Assembly));
-			val23.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(25, 21)));
-			DynamicResource val26 = ((IMarkupExtension<DynamicResource>)(object)val3).ProvideValue((IServiceProvider)val23);
-			((IDynamicResourceHandler)val4).SetDynamicResource(VisualElement.StyleProperty, val26.get_Key());
+			XmlNamespaceResolver val23 = new XmlNamespaceResolver();
+			val23.Add("", "http://xamarin.com/schemas/2014/forms");
+			val23.Add("x", "http://schemas.microsoft.com/winfx/2009/xaml");
+			val23.Add("local", "clr-namespace:HomeQuarantine.Views.Base");
+			val23.Add("converters", "clr-namespace:HomeQuarantine.Converters");
+			val23.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
+			val23.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
+			val23.Add("controls", "clr-namespace:HomeQuarantine.Controls");
+			val21.Add(typeFromHandle2, (object)new XamlTypeResolver((IXmlNamespaceResolver)val23, typeof(NoSymptomResultView).GetTypeInfo().Assembly));
+			val21.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(25, 21)));
+			DynamicResource val24 = ((IMarkupExtension<DynamicResource>)(object)val2).ProvideValue((IServiceProvider)val21);
+			((IDynamicResourceHandler)val3).SetDynamicResource(VisualElement.StyleProperty, val24.get_Key());
+			((BindableObject)val3).SetValue(Label.HorizontalTextAlignmentProperty, new TextAlignmentConverter().ConvertFromInvariantString("Center"));
+			((Layout<View>)(object)val17).get_Children().Add((View)(object)val3);
+			((BindableObject)val4).SetValue(Label.TextProperty, (object)noSymptomView_YouHaveSubmittedYourDailySymptomCheck);
+			((BindableObject)val4).SetValue(View.MarginProperty, (object)new Thickness(16.0, 4.0, 16.0, 0.0));
 			((BindableObject)val4).SetValue(Label.HorizontalTextAlignmentProperty, new TextAlignmentConverter().ConvertFromInvariantString("Center"));
-			((Layout<View>)(object)val18).get_Children().Add((View)(object)val4);
-			((BindableObject)val5).SetValue(Label.TextProperty, (object)noSymptomView_YouHaveSubmittedYourDailySymptomCheck);
-			((BindableObject)val5).SetValue(View.MarginProperty, (object)new Thickness(16.0, 4.0, 16.0, 0.0));
-			((BindableObject)val5).SetValue(Label.HorizontalTextAlignmentProperty, new TextAlignmentConverter().ConvertFromInvariantString("Center"));
-			((Layout<View>)(object)val18).get_Children().Add((View)(object)val5);
-			val6.set_Key("ElevatedBackgroundColor");
-			XamlServiceProvider val27 = new XamlServiceProvider();
+			((Layout<View>)(object)val17).get_Children().Add((View)(object)val4);
+			val5.set_Key("ElevatedBackgroundColor");
+			XamlServiceProvider val25 = new XamlServiceProvider();
 			Type typeFromHandle3 = typeof(IProvideValueTarget);
 			object[] array2 = new object[0 + 5];
 			array2[0] = shadowFrame;
-			array2[1] = val18;
-			array2[2] = val19;
-			array2[3] = val20;
+			array2[1] = val17;
+			array2[2] = val18;
+			array2[3] = val19;
 			array2[4] = noSymptomResultView;
-			SimpleValueTargetProvider val28 = new SimpleValueTargetProvider(array2, (object)VisualElement.BackgroundColorProperty, (INameScope)(object)val21);
-			object obj2 = (object)val28;
-			val27.Add(typeFromHandle3, (object)val28);
-			val27.Add(typeof(IReferenceProvider), obj2);
+			SimpleValueTargetProvider val26 = new SimpleValueTargetProvider(array2, (object)VisualElement.BackgroundColorProperty, (INameScope)(object)val20);
+			object obj2 = (object)val26;
+			val25.Add(typeFromHandle3, (object)val26);
+			val25.Add(typeof(IReferenceProvider), obj2);
 			Type typeFromHandle4 = typeof(IXamlTypeResolver);
-			XmlNamespaceResolver val29 = new XmlNamespaceResolver();
-			val29.Add("", "http://xamarin.com/schemas/2014/forms");
-			val29.Add("x", "http://schemas.microsoft.com/winfx/2009/xaml");
-			val29.Add("local", "clr-namespace:HomeQuarantine.Views.Base");
-			val29.Add("converters", "clr-namespace:HomeQuarantine.Converters");
-			val29.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
-			val29.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
-			val29.Add("controls", "clr-namespace:HomeQuarantine.Controls");
-			val27.Add(typeFromHandle4, (object)new XamlTypeResolver((IXmlNamespaceResolver)val29, typeof(NoSymptomResultView).GetTypeInfo().Assembly));
-			val27.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(33, 21)));
-			DynamicResource val30 = ((IMarkupExtension<DynamicResource>)(object)val6).ProvideValue((IServiceProvider)val27);
-			((IDynamicResourceHandler)shadowFrame).SetDynamicResource(VisualElement.BackgroundColorProperty, val30.get_Key());
+			XmlNamespaceResolver val27 = new XmlNamespaceResolver();
+			val27.Add("", "http://xamarin.com/schemas/2014/forms");
+			val27.Add("x", "http://schemas.microsoft.com/winfx/2009/xaml");
+			val27.Add("local", "clr-namespace:HomeQuarantine.Views.Base");
+			val27.Add("converters", "clr-namespace:HomeQuarantine.Converters");
+			val27.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
+			val27.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
+			val27.Add("controls", "clr-namespace:HomeQuarantine.Controls");
+			val25.Add(typeFromHandle4, (object)new XamlTypeResolver((IXmlNamespaceResolver)val27, typeof(NoSymptomResultView).GetTypeInfo().Assembly));
+			val25.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(33, 21)));
+			DynamicResource val28 = ((IMarkupExtension<DynamicResource>)(object)val5).ProvideValue((IServiceProvider)val25);
+			((IDynamicResourceHandler)shadowFrame).SetDynamicResource(VisualElement.BackgroundColorProperty, val28.get_Key());
 			((BindableObject)shadowFrame).SetValue(View.MarginProperty, (object)new Thickness(0.0, 24.0, 0.0, 16.0));
 			((BindableObject)shadowFrame).SetValue(Layout.PaddingProperty, (object)new Thickness(0.0, 0.0, 0.0, 24.0));
-			((BindableObject)val17).SetValue(StackLayout.SpacingProperty, (object)16.0);
-			val7.set_Key("PrimaryColor");
-			XamlServiceProvider val31 = new XamlServiceProvider();
+			((BindableObject)val16).SetValue(StackLayout.SpacingProperty, (object)16.0);
+			val6.set_Key("PrimaryColor");
+			XamlServiceProvider val29 = new XamlServiceProvider();
 			Type typeFromHandle5 = typeof(IProvideValueTarget);
 			object[] array3 = new object[0 + 7];
-			array3[0] = val8;
-			array3[1] = val17;
+			array3[0] = val7;
+			array3[1] = val16;
 			array3[2] = shadowFrame;
-			array3[3] = val18;
-			array3[4] = val19;
-			array3[5] = val20;
+			array3[3] = val17;
+			array3[4] = val18;
+			array3[5] = val19;
 			array3[6] = noSymptomResultView;
-			SimpleValueTargetProvider val32 = new SimpleValueTargetProvider(array3, (object)BoxView.ColorProperty, (INameScope)(object)val21);
-			object obj3 = (object)val32;
-			val31.Add(typeFromHandle5, (object)val32);
-			val31.Add(typeof(IReferenceProvider), obj3);
+			SimpleValueTargetProvider val30 = new SimpleValueTargetProvider(array3, (object)BoxView.ColorProperty, (INameScope)(object)val20);
+			object obj3 = (object)val30;
+			val29.Add(typeFromHandle5, (object)val30);
+			val29.Add(typeof(IReferenceProvider), obj3);
 			Type typeFromHandle6 = typeof(IXamlTypeResolver);
-			XmlNamespaceResolver val33 = new XmlNamespaceResolver();
-			val33.Add("", "http://xamarin.com/schemas/2014/forms");
-			val33.Add("x", "http://schemas.microsoft.com/winfx/2009/xaml");
-			val33.Add("local", "clr-namespace:HomeQuarantine.Views.Base");
-			val33.Add("converters", "clr-namespace:HomeQuarantine.Converters");
-			val33.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
-			val33.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
-			val33.Add("controls", "clr-namespace:HomeQuarantine.Controls");
-			val31.Add(typeFromHandle6, (object)new XamlTypeResolver((IXmlNamespaceResolver)val33, typeof(NoSymptomResultView).GetTypeInfo().Assembly));
-			val31.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(37, 34)));
-			DynamicResource val34 = ((IMarkupExtension<DynamicResource>)(object)val7).ProvideValue((IServiceProvider)val31);
-			((IDynamicResourceHandler)val8).SetDynamicResource(BoxView.ColorProperty, val34.get_Key());
-			((BindableObject)val8).SetValue(VisualElement.HeightRequestProperty, (object)7.0);
-			((Layout<View>)(object)val17).get_Children().Add((View)(object)val8);
-			((BindableObject)val16).SetValue(StackLayout.SpacingProperty, (object)0.0);
-			((BindableObject)val9).SetValue(Label.FontAttributesProperty, new FontAttributesConverter().ConvertFromInvariantString("Bold"));
-			((BindableObject)val9).SetValue(View.MarginProperty, (object)new Thickness(16.0));
-			((BindableObject)val9).SetValue(Label.TextProperty, (object)noSymptomView_TakingCareOfYourHealthAndWellBeing);
-			((Layout<View>)(object)val16).get_Children().Add((View)(object)val9);
-			((BindableObject)val10).SetValue(View.MarginProperty, (object)new Thickness(16.0, 0.0, 16.0, 16.0));
-			((BindableObject)val10).SetValue(Label.TextProperty, (object)noSymptomView_HealthDescription);
-			((Layout<View>)(object)val16).get_Children().Add((View)(object)val10);
+			XmlNamespaceResolver val31 = new XmlNamespaceResolver();
+			val31.Add("", "http://xamarin.com/schemas/2014/forms");
+			val31.Add("x", "http://schemas.microsoft.com/winfx/2009/xaml");
+			val31.Add("local", "clr-namespace:HomeQuarantine.Views.Base");
+			val31.Add("converters", "clr-namespace:HomeQuarantine.Converters");
+			val31.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
+			val31.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
+			val31.Add("controls", "clr-namespace:HomeQuarantine.Controls");
+			val29.Add(typeFromHandle6, (object)new XamlTypeResolver((IXmlNamespaceResolver)val31, typeof(NoSymptomResultView).GetTypeInfo().Assembly));
+			val29.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(37, 34)));
+			DynamicResource val32 = ((IMarkupExtension<DynamicResource>)(object)val6).ProvideValue((IServiceProvider)val29);
+			((IDynamicResourceHandler)val7).SetDynamicResource(BoxView.ColorProperty, val32.get_Key());
+			((BindableObject)val7).SetValue(VisualElement.HeightRequestProperty, (object)7.0);
+			((Layout<View>)(object)val16).get_Children().Add((View)(object)val7);
+			((BindableObject)val15).SetValue(StackLayout.SpacingProperty, (object)0.0);
+			((BindableObject)val8).SetValue(Label.FontAttributesProperty, new FontAttributesConverter().ConvertFromInvariantString("Bold"));
+			((BindableObject)val8).SetValue(View.MarginProperty, (object)new Thickness(16.0));
+			((BindableObject)val8).SetValue(Label.TextProperty, (object)noSymptomView_TakingCareOfYourHealthAndWellBeing);
+			((Layout<View>)(object)val15).get_Children().Add((View)(object)val8);
+			((BindableObject)val9).SetValue(View.MarginProperty, (object)new Thickness(16.0, 0.0, 16.0, 16.0));
+			((BindableObject)val9).SetValue(Label.TextProperty, (object)noSymptomView_HealthDescription);
+			((Layout<View>)(object)val15).get_Children().Add((View)(object)val9);
 			((BindableObject)resourceLinkView).SetValue(ResourceLinkView.TextProperty, (object)noSymptomView_MentalHealthSupport);
-			val11.set_Path("MentalHealthSupportUrl");
-			BindingBase val35 = ((IMarkupExtension<BindingBase>)(object)val11).ProvideValue((IServiceProvider)null);
-			((BindableObject)resourceLinkView).SetBinding(ResourceLinkView.UrlProperty, val35);
+			val10.set_Path("MentalHealthSupportUrl");
+			BindingBase val33 = ((IMarkupExtension<BindingBase>)(object)val10).ProvideValue((IServiceProvider)null);
+			((BindableObject)resourceLinkView).SetBinding(ResourceLinkView.UrlProperty, val33);
 			((BindableObject)resourceLinkView).SetValue(ResourceLinkView.IsUrlProperty, (object)true);
-			((Layout<View>)(object)val16).get_Children().Add((View)(object)resourceLinkView);
+			((Layout<View>)(object)val15).get_Children().Add((View)(object)resourceLinkView);
 			((BindableObject)resourceLinkView2).SetValue(ResourceLinkView.TextProperty, (object)noSymptomView_UsingtechnologyToStayConnected);
-			val12.set_Path("UsingTechnologyToStayConnectedUrl");
-			BindingBase val36 = ((IMarkupExtension<BindingBase>)(object)val12).ProvideValue((IServiceProvider)null);
-			((BindableObject)resourceLinkView2).SetBinding(ResourceLinkView.UrlProperty, val36);
+			val11.set_Path("UsingTechnologyToStayConnectedUrl");
+			BindingBase val34 = ((IMarkupExtension<BindingBase>)(object)val11).ProvideValue((IServiceProvider)null);
+			((BindableObject)resourceLinkView2).SetBinding(ResourceLinkView.UrlProperty, val34);
 			((BindableObject)resourceLinkView2).SetValue(ResourceLinkView.IsUrlProperty, (object)true);
-			((Layout<View>)(object)val16).get_Children().Add((View)(object)resourceLinkView2);
+			((Layout<View>)(object)val15).get_Children().Add((View)(object)resourceLinkView2);
 			((BindableObject)resourceLinkView3).SetValue(ResourceLinkView.TextProperty, (object)noSymptomView_StayActiveAndhealthy);
 			((BindableObject)resourceLinkView3).SetValue(ResourceLinkView.IsUrlProperty, (object)true);
-			val13.set_Path("StayingActiveAndHealthyUrl");
-			BindingBase val37 = ((IMarkupExtension<BindingBase>)(object)val13).ProvideValue((IServiceProvider)null);
-			((BindableObject)resourceLinkView3).SetBinding(ResourceLinkView.UrlProperty, val37);
-			((Layout<View>)(object)val16).get_Children().Add((View)(object)resourceLinkView3);
+			val12.set_Path("StayingActiveAndHealthyUrl");
+			BindingBase val35 = ((IMarkupExtension<BindingBase>)(object)val12).ProvideValue((IServiceProvider)null);
+			((BindableObject)resourceLinkView3).SetBinding(ResourceLinkView.UrlProperty, val35);
+			((Layout<View>)(object)val15).get_Children().Add((View)(object)resourceLinkView3);
 			((BindableObject)resourceLinkView4).SetValue(ResourceLinkView.TextProperty, (object)noSymptomView_Mindfulness);
-			val14.set_Path("MindfulnessUrl");
-			BindingBase val38 = ((IMarkupExtension<BindingBase>)(object)val14).ProvideValue((IServiceProvider)null);
-			((BindableObject)resourceLinkView4).SetBinding(ResourceLinkView.UrlProperty, val38);
+			val13.set_Path("MindfulnessUrl");
+			BindingBase val36 = ((IMarkupExtension<BindingBase>)(object)val13).ProvideValue((IServiceProvider)null);
+			((BindableObject)resourceLinkView4).SetBinding(ResourceLinkView.UrlProperty, val36);
 			((BindableObject)resourceLinkView4).SetValue(ResourceLinkView.IsUrlProperty, (object)true);
-			((Layout<View>)(object)val16).get_Children().Add((View)(object)resourceLinkView4);
+			((Layout<View>)(object)val15).get_Children().Add((View)(object)resourceLinkView4);
 			((BindableObject)resourceLinkView5).SetValue(ResourceLinkView.TextProperty, (object)noSymptomView_ServiceandSupport);
-			val15.set_Path("ServicesAndSupportUrl");
-			BindingBase val39 = ((IMarkupExtension<BindingBase>)(object)val15).ProvideValue((IServiceProvider)null);
-			((BindableObject)resourceLinkView5).SetBinding(ResourceLinkView.UrlProperty, val39);
+			val14.set_Path("ServicesAndSupportUrl");
+			BindingBase val37 = ((IMarkupExtension<BindingBase>)(object)val14).ProvideValue((IServiceProvider)null);
+			((BindableObject)resourceLinkView5).SetBinding(ResourceLinkView.UrlProperty, val37);
 			((BindableObject)resourceLinkView5).SetValue(ResourceLinkView.IsUrlProperty, (object)true);
-			((Layout<View>)(object)val16).get_Children().Add((View)(object)resourceLinkView5);
-			((Layout<View>)(object)val17).get_Children().Add((View)(object)val16);
-			((BindableObject)shadowFrame).SetValue(ContentView.ContentProperty, (object)val17);
-			((Layout<View>)(object)val18).get_Children().Add((View)(object)shadowFrame);
-			val19.set_Content((View)(object)val18);
-			((Layout<View>)(object)val20).get_Children().Add((View)(object)val19);
-			((BindableObject)noSymptomResultView).SetValue(ContentPage.ContentProperty, (object)val20);
+			((Layout<View>)(object)val15).get_Children().Add((View)(object)resourceLinkView5);
+			((Layout<View>)(object)val16).get_Children().Add((View)(object)val15);
+			((BindableObject)shadowFrame).SetValue(ContentView.ContentProperty, (object)val16);
+			((Layout<View>)(object)val17).get_Children().Add((View)(object)shadowFrame);
+			val18.set_Content((View)(object)val17);
+			((Layout<View>)(object)val19).get_Children().Add((View)(object)val18);
+			((BindableObject)noSymptomResultView).SetValue(ContentPage.ContentProperty, (object)val19);
 		}
 
 		private void __InitComponentRuntime()

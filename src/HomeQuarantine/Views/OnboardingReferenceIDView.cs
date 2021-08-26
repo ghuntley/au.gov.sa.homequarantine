@@ -380,147 +380,146 @@ namespace HomeQuarantine.Views
 			//IL_13d5: Unknown result type (might be due to invalid IL or missing references)
 			//IL_13df: Expected O, but got Unknown
 			//IL_13e4: Expected O, but got Unknown
-			//IL_1424: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1443: Unknown result type (might be due to invalid IL or missing references)
-			//IL_148c: Unknown result type (might be due to invalid IL or missing references)
-			//IL_14a2: Unknown result type (might be due to invalid IL or missing references)
-			//IL_150b: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1510: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1539: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1409: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1452: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1468: Unknown result type (might be due to invalid IL or missing references)
+			//IL_14d1: Unknown result type (might be due to invalid IL or missing references)
+			//IL_14d6: Unknown result type (might be due to invalid IL or missing references)
+			//IL_14ff: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1504: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1507: Expected O, but got Unknown
+			//IL_150c: Expected O, but got Unknown
+			//IL_150c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_151e: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1529: Unknown result type (might be due to invalid IL or missing references)
+			//IL_152e: Unknown result type (might be due to invalid IL or missing references)
 			//IL_153e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1541: Expected O, but got Unknown
-			//IL_1546: Expected O, but got Unknown
-			//IL_1546: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1558: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1563: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1568: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1578: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1588: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1598: Unknown result type (might be due to invalid IL or missing references)
-			//IL_15a8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_15b8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_15c8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_15f1: Expected O, but got Unknown
-			//IL_15ec: Unknown result type (might be due to invalid IL or missing references)
-			//IL_15f6: Expected O, but got Unknown
-			//IL_15f6: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1605: Unknown result type (might be due to invalid IL or missing references)
-			//IL_160f: Expected O, but got Unknown
-			//IL_160a: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1614: Expected O, but got Unknown
-			//IL_1619: Expected O, but got Unknown
+			//IL_154e: Unknown result type (might be due to invalid IL or missing references)
+			//IL_155e: Unknown result type (might be due to invalid IL or missing references)
+			//IL_156e: Unknown result type (might be due to invalid IL or missing references)
+			//IL_157e: Unknown result type (might be due to invalid IL or missing references)
+			//IL_158e: Unknown result type (might be due to invalid IL or missing references)
+			//IL_15b7: Expected O, but got Unknown
+			//IL_15b2: Unknown result type (might be due to invalid IL or missing references)
+			//IL_15bc: Expected O, but got Unknown
+			//IL_15bc: Unknown result type (might be due to invalid IL or missing references)
+			//IL_15cb: Unknown result type (might be due to invalid IL or missing references)
+			//IL_15d5: Expected O, but got Unknown
+			//IL_15d0: Unknown result type (might be due to invalid IL or missing references)
+			//IL_15da: Expected O, but got Unknown
+			//IL_15df: Expected O, but got Unknown
+			//IL_1604: Unknown result type (might be due to invalid IL or missing references)
 			//IL_163e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1678: Unknown result type (might be due to invalid IL or missing references)
-			//IL_168e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_16a4: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1726: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1772: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1777: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17a0: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1654: Unknown result type (might be due to invalid IL or missing references)
+			//IL_166a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_16ec: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1738: Unknown result type (might be due to invalid IL or missing references)
+			//IL_173d: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1766: Unknown result type (might be due to invalid IL or missing references)
+			//IL_176b: Unknown result type (might be due to invalid IL or missing references)
+			//IL_176e: Expected O, but got Unknown
+			//IL_1773: Expected O, but got Unknown
+			//IL_1773: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1785: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1790: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1795: Unknown result type (might be due to invalid IL or missing references)
 			//IL_17a5: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17a8: Expected O, but got Unknown
-			//IL_17ad: Expected O, but got Unknown
-			//IL_17ad: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17bf: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17ca: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17cf: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17df: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17ef: Unknown result type (might be due to invalid IL or missing references)
-			//IL_17ff: Unknown result type (might be due to invalid IL or missing references)
-			//IL_180f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_181f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_182f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1858: Expected O, but got Unknown
-			//IL_1853: Unknown result type (might be due to invalid IL or missing references)
-			//IL_185d: Expected O, but got Unknown
-			//IL_185d: Unknown result type (might be due to invalid IL or missing references)
-			//IL_186f: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1879: Expected O, but got Unknown
-			//IL_1874: Unknown result type (might be due to invalid IL or missing references)
-			//IL_187e: Expected O, but got Unknown
-			//IL_1883: Expected O, but got Unknown
+			//IL_17b5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_17c5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_17d5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_17e5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_17f5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_181e: Expected O, but got Unknown
+			//IL_1819: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1823: Expected O, but got Unknown
+			//IL_1823: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1835: Unknown result type (might be due to invalid IL or missing references)
+			//IL_183f: Expected O, but got Unknown
+			//IL_183a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1844: Expected O, but got Unknown
+			//IL_1849: Expected O, but got Unknown
+			//IL_186e: Unknown result type (might be due to invalid IL or missing references)
 			//IL_18a8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_18e2: Unknown result type (might be due to invalid IL or missing references)
-			//IL_18f8: Unknown result type (might be due to invalid IL or missing references)
-			//IL_190e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1969: Unknown result type (might be due to invalid IL or missing references)
-			//IL_196e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_19a1: Unknown result type (might be due to invalid IL or missing references)
+			//IL_18be: Unknown result type (might be due to invalid IL or missing references)
+			//IL_18d4: Unknown result type (might be due to invalid IL or missing references)
+			//IL_192f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1934: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1967: Unknown result type (might be due to invalid IL or missing references)
+			//IL_196c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_196f: Expected O, but got Unknown
+			//IL_1974: Expected O, but got Unknown
+			//IL_1974: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1986: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1991: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1996: Unknown result type (might be due to invalid IL or missing references)
 			//IL_19a6: Unknown result type (might be due to invalid IL or missing references)
-			//IL_19a9: Expected O, but got Unknown
-			//IL_19ae: Expected O, but got Unknown
-			//IL_19ae: Unknown result type (might be due to invalid IL or missing references)
-			//IL_19c0: Unknown result type (might be due to invalid IL or missing references)
-			//IL_19cb: Unknown result type (might be due to invalid IL or missing references)
-			//IL_19d0: Unknown result type (might be due to invalid IL or missing references)
-			//IL_19e0: Unknown result type (might be due to invalid IL or missing references)
-			//IL_19f0: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a00: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a10: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a20: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a30: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a59: Expected O, but got Unknown
-			//IL_1a54: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a5e: Expected O, but got Unknown
-			//IL_1a5e: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a70: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a7a: Expected O, but got Unknown
-			//IL_1a75: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1a7f: Expected O, but got Unknown
-			//IL_1a84: Expected O, but got Unknown
-			//IL_1a9d: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1aa2: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1ad5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_19b6: Unknown result type (might be due to invalid IL or missing references)
+			//IL_19c6: Unknown result type (might be due to invalid IL or missing references)
+			//IL_19d6: Unknown result type (might be due to invalid IL or missing references)
+			//IL_19e6: Unknown result type (might be due to invalid IL or missing references)
+			//IL_19f6: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1a1f: Expected O, but got Unknown
+			//IL_1a1a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1a24: Expected O, but got Unknown
+			//IL_1a24: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1a36: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1a40: Expected O, but got Unknown
+			//IL_1a3b: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1a45: Expected O, but got Unknown
+			//IL_1a4a: Expected O, but got Unknown
+			//IL_1a63: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1a68: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1a9b: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1aa0: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1aa3: Expected O, but got Unknown
+			//IL_1aa8: Expected O, but got Unknown
+			//IL_1aa8: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1aba: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1ac5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1aca: Unknown result type (might be due to invalid IL or missing references)
 			//IL_1ada: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1add: Expected O, but got Unknown
-			//IL_1ae2: Expected O, but got Unknown
-			//IL_1ae2: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1af4: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1aff: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b04: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b14: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b24: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b34: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b44: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b54: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b64: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b8d: Expected O, but got Unknown
-			//IL_1b88: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1b92: Expected O, but got Unknown
-			//IL_1b92: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1ba4: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1bae: Expected O, but got Unknown
-			//IL_1ba9: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1bb3: Expected O, but got Unknown
-			//IL_1bb8: Expected O, but got Unknown
-			//IL_1be5: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1bef: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1bf4: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c27: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1aea: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1afa: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b0a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b1a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b2a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b53: Expected O, but got Unknown
+			//IL_1b4e: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b58: Expected O, but got Unknown
+			//IL_1b58: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b6a: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b74: Expected O, but got Unknown
+			//IL_1b6f: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1b79: Expected O, but got Unknown
+			//IL_1b7e: Expected O, but got Unknown
+			//IL_1bab: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1bb5: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1bba: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1bed: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1bf2: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1bf5: Expected O, but got Unknown
+			//IL_1bfa: Expected O, but got Unknown
+			//IL_1bfa: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c0c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c17: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c1c: Unknown result type (might be due to invalid IL or missing references)
 			//IL_1c2c: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c2f: Expected O, but got Unknown
-			//IL_1c34: Expected O, but got Unknown
-			//IL_1c34: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c46: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c51: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c56: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c66: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c76: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c86: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1c96: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1ca6: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1cb6: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1cdf: Expected O, but got Unknown
-			//IL_1cda: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1ce4: Expected O, but got Unknown
-			//IL_1ce4: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1cf6: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1d00: Expected O, but got Unknown
-			//IL_1cfb: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1d05: Expected O, but got Unknown
-			//IL_1d0a: Expected O, but got Unknown
-			//IL_1d16: Unknown result type (might be due to invalid IL or missing references)
-			//IL_1d4d: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c3c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c4c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c5c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c6c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1c7c: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1ca5: Expected O, but got Unknown
+			//IL_1ca0: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1caa: Expected O, but got Unknown
+			//IL_1caa: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1cbc: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1cc6: Expected O, but got Unknown
+			//IL_1cc1: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1ccb: Expected O, but got Unknown
+			//IL_1cd0: Expected O, but got Unknown
+			//IL_1cdc: Unknown result type (might be due to invalid IL or missing references)
+			//IL_1d13: Unknown result type (might be due to invalid IL or missing references)
 			if (ResourceLoader.get_IsEnabled())
 			{
 				ResourceLoadingQuery val = new ResourceLoadingQuery();
@@ -973,9 +972,7 @@ namespace HomeQuarantine.Views
 			val87.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(109, 25)));
 			DynamicResource val90 = ((IMarkupExtension<DynamicResource>)(object)val31).ProvideValue((IServiceProvider)val87);
 			((IDynamicResourceHandler)val32).SetDynamicResource(VisualElement.StyleProperty, val90.get_Key());
-			((BindableObject)val32).SetValue(Label.LineBreakModeProperty, (object)(LineBreakMode)1);
-			((BindableObject)val32).SetValue(View.MarginProperty, (object)new Thickness(16.0, 0.0));
-			((BindableObject)val32).SetValue(Label.PaddingProperty, (object)new Thickness(16.0));
+			((BindableObject)val32).SetValue(View.MarginProperty, (object)new Thickness(16.0));
 			((Layout<View>)(object)val33).get_Children().Add((View)(object)val32);
 			val34.set_Content((View)(object)val33);
 			((Layout<View>)(object)val35).get_Children().Add((View)(object)val34);
@@ -1008,7 +1005,7 @@ namespace HomeQuarantine.Views
 			val94.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
 			val94.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
 			val92.Add(typeFromHandle18, (object)new XamlTypeResolver((IXmlNamespaceResolver)val94, typeof(OnboardingReferenceIDView).GetTypeInfo().Assembly));
-			val92.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(127, 13)));
+			val92.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(124, 13)));
 			DynamicResource val95 = ((IMarkupExtension<DynamicResource>)(object)val38).ProvideValue((IServiceProvider)val92);
 			((IDynamicResourceHandler)shadowFrame2).SetDynamicResource(VisualElement.BackgroundColorProperty, val95.get_Key());
 			((BindableObject)shadowFrame2).SetValue(Layout.PaddingProperty, (object)new Thickness(24.0));
@@ -1047,7 +1044,7 @@ namespace HomeQuarantine.Views
 			val99.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
 			val99.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
 			val97.Add(typeFromHandle20, (object)new XamlTypeResolver((IXmlNamespaceResolver)val99, typeof(OnboardingReferenceIDView).GetTypeInfo().Assembly));
-			val97.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(146, 13)));
+			val97.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(143, 13)));
 			DynamicResource val100 = ((IMarkupExtension<DynamicResource>)(object)val43).ProvideValue((IServiceProvider)val97);
 			((IDynamicResourceHandler)shadowFrame3).SetDynamicResource(VisualElement.BackgroundColorProperty, val100.get_Key());
 			((BindableObject)shadowFrame3).SetValue(Layout.PaddingProperty, (object)new Thickness(24.0));
@@ -1081,7 +1078,7 @@ namespace HomeQuarantine.Views
 			val104.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
 			val104.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
 			val102.Add(typeFromHandle22, (object)new XamlTypeResolver((IXmlNamespaceResolver)val104, typeof(OnboardingReferenceIDView).GetTypeInfo().Assembly));
-			val102.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(155, 21)));
+			val102.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(152, 21)));
 			object text = ((IMarkupExtension)val45).ProvideValue((IServiceProvider)val102);
 			val47.set_Text((string)text);
 			val46.set_Key("SuccessColor");
@@ -1107,7 +1104,7 @@ namespace HomeQuarantine.Views
 			val107.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
 			val107.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
 			val105.Add(typeFromHandle24, (object)new XamlTypeResolver((IXmlNamespaceResolver)val107, typeof(OnboardingReferenceIDView).GetTypeInfo().Assembly));
-			val105.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(156, 21)));
+			val105.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(153, 21)));
 			DynamicResource val108 = ((IMarkupExtension<DynamicResource>)(object)val46).ProvideValue((IServiceProvider)val105);
 			((IDynamicResourceHandler)val47).SetDynamicResource(Label.TextColorProperty, val108.get_Key());
 			((BindableObject)val47).SetValue(Label.FontFamilyProperty, (object)"FA-R");
@@ -1135,7 +1132,7 @@ namespace HomeQuarantine.Views
 			val112.Add("properties", "clr-namespace:HomeQuarantine.Data.Resources.Languages;assembly=HomeQuarantine.Data");
 			val112.Add("viewModelBase", "clr-namespace:HomeQuarantine.ViewModels.Base;assembly=HomeQuarantine");
 			val110.Add(typeFromHandle26, (object)new XamlTypeResolver((IXmlNamespaceResolver)val112, typeof(OnboardingReferenceIDView).GetTypeInfo().Assembly));
-			val110.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(158, 21)));
+			val110.Add(typeof(IXmlLineInfoProvider), (object)new XmlLineInfoProvider((IXmlLineInfo)new XmlLineInfo(155, 21)));
 			((BindableObject)val47).SetValue(fontSizeProperty, ((IExtendedTypeConverter)val109).ConvertFromInvariantString("30", (IServiceProvider)val110));
 			((BindableObject)val47).SetValue(Label.HorizontalTextAlignmentProperty, new TextAlignmentConverter().ConvertFromInvariantString("Center"));
 			((Layout<View>)(object)val49).get_Children().Add((View)(object)val47);

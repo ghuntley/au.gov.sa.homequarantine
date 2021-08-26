@@ -15,6 +15,7 @@ using HomeQuarantine.Services.Identity;
 using HomeQuarantine.Services.Language;
 using HomeQuarantine.Services.Navigation;
 using HomeQuarantine.Services.Network;
+using HomeQuarantine.Services.OpenUrl;
 using HomeQuarantine.Services.Permissions;
 using HomeQuarantine.Services.Settings;
 using HomeQuarantine.Services.SystemStateService;
@@ -46,6 +47,8 @@ namespace HomeQuarantine.ViewModels
 		private readonly ISettingsService settingsService;
 
 		private readonly IPermissionsService permissionsService;
+
+		private readonly IOpenUrlService openUrlService;
 
 		private bool isRedirecting;
 
@@ -81,6 +84,11 @@ namespace HomeQuarantine.ViewModels
 			}
 		}
 
+		public IAsyncCommand PrivacyPolicyCommand => new AsyncCommand(async delegate
+		{
+			await OpenPrivacyPolicy();
+		});
+
 		public IAsyncCommand SignInCommand => new AsyncCommand(async delegate
 		{
 			await SingleRunAsync(async delegate
@@ -101,7 +109,7 @@ namespace HomeQuarantine.ViewModels
 			}
 		});
 
-		public LoginViewModel(IDependencyService dependencyService, IDeviceSecurityService deviceSecurityService, IDialogService dialogService, IEventService eventService, IExperienceApiService experienceApiService, IIdentityService identityService, ILanguageService languageService, INavigationService navigationService, INetworkService networkService, ISettingsService settingsService, IPermissionsService permissionsService)
+		public LoginViewModel(IDependencyService dependencyService, IDeviceSecurityService deviceSecurityService, IDialogService dialogService, IEventService eventService, IExperienceApiService experienceApiService, IIdentityService identityService, ILanguageService languageService, INavigationService navigationService, INetworkService networkService, ISettingsService settingsService, IPermissionsService permissionsService, IOpenUrlService openUrlService)
 		{
 			this.dependencyService = dependencyService;
 			this.deviceSecurityService = deviceSecurityService;
@@ -114,6 +122,7 @@ namespace HomeQuarantine.ViewModels
 			this.networkService = networkService;
 			this.settingsService = settingsService;
 			this.permissionsService = permissionsService;
+			this.openUrlService = openUrlService;
 			base.IsBusy = true;
 		}
 
@@ -233,6 +242,11 @@ namespace HomeQuarantine.ViewModels
 				await navigationService.PushSingleErrorModal(null, connectionErrorHandlingPage);
 				return false;
 			}
+		}
+
+		private async Task OpenPrivacyPolicy()
+		{
+			await openUrlService.OpenUrl("https://covid-19.sa.gov.au/hqprivacy");
 		}
 	}
 }

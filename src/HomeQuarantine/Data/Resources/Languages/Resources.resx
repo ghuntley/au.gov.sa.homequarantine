@@ -29,12 +29,12 @@
   </xsd:schema>
 <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="TestingScheduleView_TestingScheduleAndCalendar"><value>Testing schedule and calendar</value></data>
   <data name="Resources_EmergencySubContent"><value>When you call Triple Zero (000):</value></data>
-  <data name="LoginView_ContentDescription2"><value> account to start your Home Quarantine.</value></data>
-  <data name="LoginView_ContentDescription1"><value>Log in with your my</value></data>
+  <data name="LoginView_ContentDescription2"><value> SA Health Exemption portal.</value></data>
+  <data name="LoginView_ContentDescription1"><value>Log in with the account that you created when applying through the</value></data>
   <data name="FAQ_Related informationSubTitle"><value>There's a range of useful resources available to help you get the information you need.</value></data>
   <data name="Resource_KidsHelplineNumber"><value>1800 55 1800</value></data>
   <data name="Resources_CallCentresAndInforamtion"><value>Call centres and information lines</value></data>
-  <data name="LoginView_CreateAccountDescription"><value>Don't have an SA GOV account?</value></data>
+  <data name="LoginView_CreateAccountDescription"><value>Didn't apply through the Exemptions portal?</value></data>
   <data name="HomePage_ExpectedEndDate"><value>Expected end date</value></data>
   <data name="ComplianceCheckInSuccessfulView_LocationSubmitted"><value>You have successfully checked in.</value></data>
   <data name="Resource_TriplezerNumber"><value>000</value></data>
@@ -75,7 +75,7 @@
   <data name="TestingScheduleView_YourHomeQuarantineSchedule"><value>Your home quarantine schedule</value></data>
   <data name="OnboardingHelpView_NotificationsAreAnEssentialPart"><value>Notifications are an essential part of the home quarantine. You will not be able to complete your quarantine at home if you do not allow push notifications.</value></data>
   <data name="OnBoarding_Address_NotCorrect_1"><value>If the address shown is not correct, please contact Home Quarantine helpline on </value></data>
-  <data name="OnBoarding_Address_NotCorrect_2"><value> for assistance from 7:00 am to 10:00 pm daily.</value></data>
+  <data name="OnBoarding_Address_NotCorrect_2"><value> for assistance from 8:00 am to 8:00 pm daily.</value></data>
   <data name="Guidelines_Alerts"><value>COVID-19 health alerts</value></data>
   <data name="AppVersion_Button_Google"><value>Visit Google Play Store</value></data>
   <data name="ReferenceIDView_ValidatingYourReferenceID"><value>Validating your Unique ID</value></data>
@@ -157,7 +157,6 @@
   <data name="Resource_CrisisSupporterChat"><value>Crisis supporter chat</value></data>
   <data name="FAQ_FAQsQuestion9Content2"><value>Your quarantine period may be extended, and additional COVID-19 tests may be required.</value></data>
   <data name="FAQ_FAQsQuestion9Content1"><value>If you test positive at any time during your home quarantine, you may be moved to a dedicated quarantine facility. </value></data>
-  <data name="LoginView_ContentDescriptionGov"><value>GOV</value></data>
   <data name="HasSymptomView_Title"><value>You've indicated you have symptoms</value></data>
   <data name="Guidelines_AvoidContactContent1"><value>No contact with people from outside your home. Arrange for deliveries, including food, to be left at your door. Do not go through drive-through food venues.    </value></data>
   <data name="Guidelines_AvoidContactContent3"><value>When driving to get your COVID-19 test, wear a mask and go straight to and from the testing site.    </value></data>
@@ -165,7 +164,7 @@
   <data name="Guidelines_WearAMask"><value>Wear a mask</value></data>
   <data name="Guidelines_SAHealthHomeQuarantineGuidelines"><value>Related information</value></data>
   <data name="Guidelines_YouMustNotLeaveContent"><value>People undertaking home quarantine must stay home except for COVID-19 testing or for an emergency. In an emergency call 000 and advise those who attend that you are in home quarantine.    </value></data>
-  <data name="Errorhandling_ContactTime"><value> for assistance from 7:00 am to 10:00 pm daily.</value></data>
+  <data name="Errorhandling_ContactTime"><value> for assistance from 8:00 am to 8:00 pm daily.</value></data>
   <data name="NoSymptomView_YouHaveSubmittedYourDailySymptomCheck"><value>You have submitted your daily symptom check</value></data>
   <data name="HomePage_FAQs"><value>Frequently asked questions</value></data>
   <data name="DeviceSecurity_Title"><value>Device Security</value></data>
@@ -267,7 +266,7 @@
   <data name="NotificationDetails_ResourceLinkViewInformationButton"><value>Home quarantine requirements</value></data>
   <data name="HomePage_QuarantineGuidelines"><value>Quarantine guidelines</value></data>
   <data name="NoSymptomView_NoNewSymptoms"><value>No new symptoms</value></data>
-  <data name="ReferenceIDView_ContactTime"><value> for assistance from 7:00 am to 10:00 pm daily</value></data>
+  <data name="ReferenceIDView_ContactTime"><value> for assistance from 8:00 am to 8:00 pm daily.</value></data>
   <data name="OnboardingHelpView_NotificationsToContinueHomeQuarantine"><value>Go to your Home Quarantine app settings and allow notifications.</value></data>
   <data name="Resource_ThirilliNumber"><value>1800 805 801</value></data>
   <data name="LocationCheckInView_LocationCheckInDescription1"><value>Confirming your location during home quarantine is essential for compliance checking.</value></data>
@@ -277,7 +276,6 @@
   <data name="LivenessCheckView_Unsuccessful"><value>Unsuccessful</value></data>
   <data name="ReferenceIDView_IncorrectReferenceNumber"><value>Incorrect ID</value></data>
   <data name="AppVersion_Button_Apple"><value>Visit App Store</value></data>
-  <data name="LoginView_ContentDescriptionSa"><value>SA</value></data>
   <data name="Resource_SupportEmailServiceBeyondBlue"><value>Support email service</value></data>
   <data name="OnboardingHelpView_ChangeCameraSettings"><value>Change camera settings</value></data>
   <data name="NotificationDetails_Title"><value>Your Home Quarantine has started</value></data>
@@ -414,7 +412,7 @@
   <data name="NotificationDetails_ResourceLinkViewInterpretingButton"><value>Translating or interpreting services</value></data>
   <data name="OnboardingHelpView_CameraServicesAreAnEssentialPart"><value>Camera Access for live face check-in is an essential part of the home quarantine process. You will not be able to complete your quarantine at home if you do not allow access for this.</value></data>
   <data name="Guidelines_YouMustNotLeave"><value>You must not leave your home</value></data>
-  <data name="LoginView_LogInButton"><value>Login</value></data>
+  <data name="LoginView_LogInButton"><value>Log in</value></data>
   <data name="Guidelines_Checkins"><value>Check-ins</value></data>
   <data name="HomePage_TestingScheduleAndCalendar"><value>Testing schedule and calendar</value></data>
   <data name="Resources_MentalHealthTriage"><value>Mental Health Triage</value></data>
@@ -461,10 +459,10 @@
   <data name="OnboardingHelpView_ToContinueHomeQuarantine"><value>Go to your Home Quarantine app settings and allow location services.</value></data>
   <data name="NoSymptomView_MentalHealthSupport"><value>Mental health support</value></data>
   <data name="AppVersion_NewVersion_Title"><value>New update available for Home Quarantine</value></data>
-  <data name="FAQ_FAQsQuestion14Content2"><value>If you experience technical problems with the Home Quarantine app, you can contact Home Quarantine helpline on 7425 5921 for assistance from 7:00 am to 10:00 pm daily.</value></data>
+  <data name="FAQ_FAQsQuestion14Content2"><value>If you experience technical problems with the Home Quarantine app, you can contact Home Quarantine helpline on 7425 5921 for assistance from 8:00 am to 8:00 pm daily.</value></data>
   <data name="FAQ_FAQsQuestion14Content1"><value>If your device stops working or breaks, try to arrange family or friends to drop off a replacement. Do not leave your home to get it fixed or replaced.</value></data>
   <data name="FAQ_FAQsQuestion12Content"><value>If you don’t respond to your check-in notification within the allowed time, we will call you.</value></data>
-  <data name="TestingScheduleCalendar_ContactTime"><value> from 7:00 am to 10:00 pm daily.</value></data>
+  <data name="TestingScheduleCalendar_ContactTime"><value> from 8:00 am to 8:00 pm daily.</value></data>
   <data name="Resources_WhiteRibbon"><value>White Ribbon</value></data>
   <data name="OnboardingHelpView_ChangeNotificationSettings"><value>Change notification settings</value></data>
   <data name="DeviceSecurity_Button_Secured"><value>OK</value></data>
@@ -488,7 +486,7 @@
   <data name="ErrorHandling_LiveFaceCheckInReason"><value>Wrong camera settings or permissions, you must allow camera access to quarantine at home.</value></data>
   <data name="OnboardingView_Monitoring_Button"><value>Done</value></data>
   <data name="OnboardingHelpView_CameraServicesDisabled"><value>Camera access disabled</value></data>
-  <data name="ReferenceIDView_EnterYourSAPathologyReferenceNumber"><value>Enter your Unique ID *</value></data>
+  <data name="ReferenceIDView_EnterYourSAPathologyReferenceNumber"><value>Enter your Unique ID*</value></data>
   <data name="Resource_KidsHelplineWebsite"><value>Kids Helpline website</value></data>
   <data name="Resources_KidsHelplineContent"><value>Kids Helpline provides information aimed to help kids to cope with COVID-19.</value></data>
   <data name="Guidelines_TestingTitle"><value>Testing</value></data>

@@ -550,10 +550,6 @@ namespace HomeQuarantine.Data.Resources.Languages
 
 		public static string LoginView_ContentDescription2 => ResourceManager.GetString("LoginView_ContentDescription2", resourceCulture);
 
-		public static string LoginView_ContentDescriptionGov => ResourceManager.GetString("LoginView_ContentDescriptionGov", resourceCulture);
-
-		public static string LoginView_ContentDescriptionSa => ResourceManager.GetString("LoginView_ContentDescriptionSa", resourceCulture);
-
 		public static string LoginView_ContentTitle => ResourceManager.GetString("LoginView_ContentTitle", resourceCulture);
 
 		public static string LoginView_CreateAccountButton => ResourceManager.GetString("LoginView_CreateAccountButton", resourceCulture);
