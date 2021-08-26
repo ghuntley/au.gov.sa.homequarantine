@@ -1,10 +1,10 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA-256-Digest-Manifest: jNY3XpsQkguwnhoGgLz5qtJBTf57PIqmFNMK85KE7yA=
+SHA-256-Digest-Manifest: xg3mMYr5N1sqB7rbbUsmPl3R1q58NIKx5ZGbOI1JKqs=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA-256-Digest: RW0/PrlIDZ0QME+XK9RsvdZPyhiie7lR7SQc29bZbRE=
+SHA-256-Digest: TtVPJFHlffs/pxTF4qvLkWSoJDcOJmFnc/M1tUvewEA=
 
 Name: META-INF/androidx.activity_activity.version
 SHA-256-Digest: 6GVBSJoTc0BGLi7iRFL2rAJWrIMPyNW3Y5G4KjMAYr4=
@@ -203,13 +203,13 @@ Name: assemblies/FormsViewGroup.dll
 SHA-256-Digest: +mTzQXfAyHnL74jinHdEGEsvi0oLzkLF36g3GuPvutg=
 
 Name: assemblies/HomeQuarantine.Android.dll
-SHA-256-Digest: P3kl7YSpF2JkVkpPq/DS2St3KhfU9ZAmSjHrba2WI4w=
+SHA-256-Digest: cPTKbxF1mmPmUPAiMoml2SjCl9n9UpcNT84CFvbWv0g=
 
 Name: assemblies/HomeQuarantine.Data.dll
-SHA-256-Digest: q1m+1a8+5smNH5cFfAbVgEUSb9gJ0HJpOVTetJy5B+0=
+SHA-256-Digest: 2ZR1tMcbKqIiwKgNahuZ+givlMhWKiajH/EYHGdfRXY=
 
 Name: assemblies/HomeQuarantine.dll
-SHA-256-Digest: Ipx9NDTufezrYB5ICYTZwupcUOtrAqAdce0oNQH/fKU=
+SHA-256-Digest: 9wubDc8iogclLGJHRqCN5mhzPKsv7utnj2uzShsl2X0=
 
 Name: assemblies/Humanizer.dll
 SHA-256-Digest: kK5l41qNP7IGu0nYMgELSiewuEtkYppFTPepHFkiO20=
@@ -553,7 +553,7 @@ Name: assemblies/mscorlib.dll
 SHA-256-Digest: i2OfV776VHAK96t6Nv65WwUhDrBeTTQLgJKWq24Qb84=
 
 Name: classes.dex
-SHA-256-Digest: CxP/UkvBJMgFjpjsDGx0piqHlRMA4bwpaI7ptclXO6U=
+SHA-256-Digest: pFoO8BIPkVqTfILanyZvpLFTGOi9TgVItMl3ENHgQ5c=
 
 Name: firebase-annotations.properties
 SHA-256-Digest: JPa6k3gBueYLarXzROtk6V9W0gGsz5rKAq+puPSNXKA=
@@ -1684,7 +1684,7 @@ Name: res/drawable/abc_vector_test.xml
 SHA-256-Digest: 31FhFmJ+Meao7TfxcsgGH09lTma98GW5Di1tfxKMiYw=
 
 Name: res/drawable/applogo.png
-SHA-256-Digest: cyGgR/0EOI027tqGWmrtTQ7B3Ww+AnJX5QRqrQnlsj0=
+SHA-256-Digest: S1WpzvInusDBZODIJAiU+l3ObVLMBTztiZrM6qm9V2s=
 
 Name: res/drawable/applogoalt.png
 SHA-256-Digest: 0r/4nB6H2+BXI5t/rDw4QJQvw64bEzIxVfZghmMiLq8=
@@ -1696,7 +1696,7 @@ Name: res/drawable/applogodark.png
 SHA-256-Digest: eRHqnahFe5LmfNOVBKBwCKGGkOWDlKmT2s87RnbAQeY=
 
 Name: res/drawable/applogosmall.png
-SHA-256-Digest: EJFaGbdFaMvgRtVtF8m9gzmZbkyXUvY5OUbpaP792mw=
+SHA-256-Digest: 6PeMDDmcWkXOmEMrhW3R/5rIx7USDTHFujZPCrL3Ppc=
 
 Name: res/drawable/avd_hide_password.xml
 SHA-256-Digest: hK+b/Q7CSwug6nf45WdCxbwOs0qde7x0YejNZ4vba60=
@@ -2331,7 +2331,7 @@ Name: res/layout/test_toolbar.xml
 SHA-256-Digest: ngdqTX5xA5Layp+cuE3QwSIxduBZS1hYsCyjqtOjJbA=
 
 Name: res/layout/test_toolbar_custom_background.xml
-SHA-256-Digest: pvpFl0JF9aFTvYS98Y9s+2NP4tKdXqic9VImbkApWpY=
+SHA-256-Digest: v2LLon2KPL29xbWZWE5qGKPjyzfgSu3VVKXIncNATmw=
 
 Name: res/layout/test_toolbar_elevation.xml
 SHA-256-Digest: rvNSVES8bQhCFrIadx3gZuEOFQ5tbNj8ttSNP7ZBbQg=
@@ -2361,25 +2361,25 @@ Name: res/menu/main.xml
 SHA-256-Digest: 6Dspnn6tZ310jRyNwGa+dpp5EqILIc4LRzrhNhSwMJo=
 
 Name: res/mipmap-hdpi-v4/ic_launcher.png
-SHA-256-Digest: dLgqD41eCv+TwsJp+Np2T7ajPvt2ENhuuXflCAwdKcg=
+SHA-256-Digest: mgQpsL8sY8btXZkf571SRbBM2K5uFvbHW8FR/iJur9A=
 
 Name: res/mipmap-hdpi-v4/ic_launcher_staging.png
 SHA-256-Digest: z2bTpQMHMl8eIFQzALrP84Bkca9lHjdsfwXs4IC3NcM=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
-SHA-256-Digest: Sn47CPl9vijJnutWILkqxL8r+fCwxm/fAg1GEtXFLwc=
+SHA-256-Digest: jwAZSQ7SuVuYjdIHVQfMSKe94I+3IQTE7dyliSx840M=
 
 Name: res/mipmap-mdpi-v4/ic_launcher_staging.png
 SHA-256-Digest: zUGV+c4d8PlfiTxXLcoiakY8RcZEDSFjPOasDOddJOM=
 
 Name: res/mipmap-xhdpi-v4/ic_launcher.png
-SHA-256-Digest: lZ/06DZhA9hMWggsd4dJfyiFzFKnTuHXECArwYwNtqc=
+SHA-256-Digest: 7PQro/2JX6YVP75ZloYEb+Xvsa1KbpfFuHm4KwniTl0=
 
 Name: res/mipmap-xhdpi-v4/ic_launcher_staging.png
 SHA-256-Digest: UqSwUaZJG/gIP99a4Kt/JwOhNSdZc/t1qAX0C+IPI7M=
 
 Name: res/mipmap-xxhdpi-v4/ic_launcher.png
-SHA-256-Digest: CcGt18GhCSRy7h2NgzclmJYcO5EEyRknq6Bu/hyhVWg=
+SHA-256-Digest: SAnHLYeA/Oxfert2M9yVEeQledj2x/eDooxnCdVEhaw=
 
 Name: res/mipmap-xxhdpi-v4/ic_launcher_staging.png
 SHA-256-Digest: z6fWQ0d8yJUuMmvPfizBcmqsLrYRCustWrbAliz7BjE=
@@ -2388,7 +2388,7 @@ Name: res/mipmap-xxhdpi-v4/iproov__capture_logo.png
 SHA-256-Digest: T+dBbhVZGkHTI2Lx1EEl7JnQ79mQKHsFxROiTTkqAwY=
 
 Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
-SHA-256-Digest: SD+sTHQfx2crbZypdXPR/Uu0/uqlRsPYbJ0GUXP+Y8s=
+SHA-256-Digest: vYewpbGxOYSul8Smgu7Zq3/4p5qiZYOivecKfM38SuA=
 
 Name: res/mipmap-xxxhdpi-v4/ic_launcher_staging.png
 SHA-256-Digest: EGQpn0W1OSxyUkAi6Z8TvZNvQ9bRZtr1UeZ6DAZF2NU=
@@ -2424,7 +2424,7 @@ Name: res/xml/xamarin_essentials_fileprovider_file_paths.xml
 SHA-256-Digest: y82y1Dq2la+9fVkuXS2PNNB5BM5hz7aBJ6aCTjawCy8=
 
 Name: resources.arsc
-SHA-256-Digest: AOLivwIr6m8XBjr50fPoOUrtcgO/ZuravXSRVNaOh7g=
+SHA-256-Digest: vUd8lL6FW8sp/gVrsPPospd2aitur2hVCZEi8DoPfMs=
 
 Name: stamp-cert-sha256
 SHA-256-Digest: L0p4Bm/NGffFWX26fUKi8jlq3aKsfwyEBtSavY6F0c0=
