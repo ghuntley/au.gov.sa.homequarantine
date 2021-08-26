@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>HomeQuarantine</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="HomeQuarantine\Resources.Fonts.fa-regular-400.ttf" />
+    <None Remove="HomeQuarantine\Resources.Fonts.fa-solid-900.ttf" />
+    <EmbeddedResource Include="HomeQuarantine\Resources.Fonts.fa-regular-400.ttf" />
+    <EmbeddedResource Include="HomeQuarantine\Resources.Fonts.fa-solid-900.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Xamarin.Forms.Xaml" />
+    <Reference Include="Xamarin.Forms.Core" />
+    <Reference Include="HomeQuarantine.Data">
+      <HintPath>..\decompresed\HomeQuarantine.Data.out.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Essentials" />
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="FFImageLoading.Forms" />
+    <Reference Include="FFImageLoading" />
+    <Reference Include="Microsoft.AppCenter.Analytics" />
+    <Reference Include="Humanizer" />
+    <Reference Include="IdentityModel" />
+    <Reference Include="Plugin.BreachDetector" />
+    <Reference Include="Microsoft.AppCenter.Crashes" />
+    <Reference Include="Microsoft.AppCenter" />
+    <Reference Include="FFImageLoading.Transformations" />
+    <Reference Include="Xamarin.Forms.Skeleton" />
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Drawing.Common">
+      <HintPath>..\..\..\..\..\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="FFImageLoading.Transformations" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,97 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="6774" android:versionName="1.0.0" android:installLocation="0" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="au.gov.sa.homequarantine" platformBuildVersionCode="30" platformBuildVersionName="11">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="30"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY"/>
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+  <uses-permission android:name="android.permission.WAKE_LOCK"/>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+  <uses-permission android:name="android.permission.CAMERA"/>
+  <uses-permission android:name="android.permission.VIBRATE"/>
+  <queries>
+    <intent>
+      <action android:name="android.support.customtabs.action.CustomTabsService"/>
+    </intent>
+    <intent>
+      <action android:name="android.intent.action.VIEW"/>
+      <data android:scheme="smsto"/>
+    </intent>
+  </queries>
+  <uses-feature android:name="android.hardware.camera" android:required="false"/>
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+  <uses-feature android:name="android.hardware.camera.front" android:required="true"/>
+  <uses-feature android:name="android.hardware.camera.front.autofocus" android:required="false"/>
+  <uses-feature android:glEsVersion="0x00020000" android:required="true"/>
+  <application android:theme="@7F1200E8" android:label="Home Quarantine" android:icon="@7F0E0000" android:name="android.app.Application" android:allowBackup="false" android:hardwareAccelerated="true" android:largeHeap="true" android:extractNativeLibs="false" android:usesCleartextTraffic="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:isSplitRequired="true">
+    <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+    <activity android:theme="@7F1200E8" android:label="Home Quarantine" android:icon="@7F0E0000" android:name="crc64273a689b454d2749.MainActivity" android:launchMode="1" android:configChanges="0x00000F80" android:hardwareAccelerated="true">
+      <intent-filter>
+        <action android:name="HomeQuarantine"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+      </intent-filter>
+    </activity>
+    <activity android:name="crc64273a689b454d2749.WebAuthenticationCallbackActivity" android:launchMode="1" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+        <data android:host="authorize"/>
+        <data android:scheme="homequarantine"/>
+      </intent-filter>
+    </activity>
+    <service android:name="crc64724786fe60be6e45.PushNotificationFirebaseMessagingService">
+      <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+      </intent-filter>
+    </service>
+    <activity android:theme="@7F1200EA" android:name="crc6496148276af801269.SplashActivity" android:launchMode="1" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity android:name="crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity" android:configChanges="0x00000480"/>
+    <receiver android:name="crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver" android:enabled="true" android:exported="false"/>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:authorities="au.gov.sa.homequarantine.mono.MonoRuntimeProvider.__mono_init__" android:initOrder="1999999999"/>
+    <activity android:theme="@7F1200E6" android:name="androidx.biometric.DeviceCredentialHandlerActivity" android:exported="true"/>
+    <service android:name="com.google.firebase.components.ComponentDiscoveryService" android:exported="false" android:directBootAware="true">
+      <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+      <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+      <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+    </service>
+    <meta-data android:name="com.google.android.gms.version" android:value="@7F0A0009"/>
+    <provider android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:authorities="au.gov.sa.homequarantine.firebaseinitprovider" android:initOrder="100" android:directBootAware="true"/>
+    <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND" android:exported="true">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+      </intent-filter>
+    </receiver>
+    <service android:name="com.google.firebase.messaging.FirebaseMessagingService" android:exported="false" android:directBootAware="true">
+      <intent-filter android:priority="-500">
+        <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+      </intent-filter>
+    </service>
+    <activity android:theme="@android:01030010" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:exported="false"/>
+    <service android:name="com.microsoft.windowsazure.messaging.notificationhubs.FirebaseReceiver" android:exported="false">
+      <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+        <action android:name="com.google.firebase.messaging.NEW_TOKEN"/>
+      </intent-filter>
+    </service>
+    <service android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false"/>
+    <receiver android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver" android:exported="false"/>
+    <service android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery" android:exported="false">
+      <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct"/>
+    </service>
+    <activity android:theme="@7F1202E1" android:name="com.iproov.sdk.ui.activity.IProovPortraitActivity" android:screenOrientation="1" android:configChanges="0x00000404" android:keepScreenOn="true" android:hardwareAccelerated="true"/>
+    <activity android:theme="@7F1202E1" android:name="com.iproov.sdk.ui.activity.IProovLandscapeActivity" android:screenOrientation="0" android:configChanges="0x00000404" android:keepScreenOn="true" android:hardwareAccelerated="true"/>
+    <activity android:theme="@7F1202E1" android:name="com.iproov.sdk.ui.activity.IProovReversePortraitActivity" android:screenOrientation="9" android:configChanges="0x00000404" android:keepScreenOn="true" android:hardwareAccelerated="true"/>
+    <activity android:theme="@7F1202E1" android:name="com.iproov.sdk.ui.activity.IProovReverseLandscapeActivity" android:screenOrientation="8" android:configChanges="0x00000404" android:keepScreenOn="true" android:hardwareAccelerated="true"/>
+    <meta-data android:name="com.android.vending.splits.required" android:value="true"/>
+    <meta-data android:name="com.android.stamp.source" android:value="https://play.google.com/store"/>
+    <meta-data android:name="com.android.stamp.type" android:value="STAMP_TYPE_DISTRIBUTION_APK"/>
+    <meta-data android:name="com.android.vending.splits" android:value="@7F140008"/>
+    <meta-data android:name="com.android.vending.derived.apk.id" android:value="3"/>
+  </application>
+</manifest>

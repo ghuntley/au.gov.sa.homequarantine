@@ -1,0 +1,66 @@
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.Versioning;
+using HomeQuarantine;
+using HomeQuarantine.Controls;
+using HomeQuarantine.Themes;
+using HomeQuarantine.Views;
+using HomeQuarantine.Views.Base;
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+[assembly: XamlCompilation(/*Could not decode attribute arguments.*/)]
+[assembly: ExportFont("fa-regular-400.ttf", Alias = "FA-R")]
+[assembly: ExportFont("fa-solid-900.ttf", Alias = "FA-S")]
+[assembly: XamlResourceId("HomeQuarantine.App.xaml", "App.xaml", typeof(App))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.AccordionView.xaml", "Controls/AccordionView.xaml", typeof(AccordionView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.ActivityIndicatorView.xaml", "Controls/ActivityIndicatorView.xaml", typeof(ActivityIndicatorView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.ButtonMainView.xaml", "Controls/ButtonMainView.xaml", typeof(ButtonMainView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.CallButtonView.xaml", "Controls/CallButtonView.xaml", typeof(CallButtonView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.CheckboxLabelView.xaml", "Controls/CheckboxLabelView.xaml", typeof(CheckboxLabelView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.ComplianceCheckIndicatorView.xaml", "Controls/ComplianceCheckIndicatorView.xaml", typeof(ComplianceCheckIndicatorView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.CustomIcon.xaml", "Controls/CustomIcon.xaml", typeof(CustomIcon))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.InformationResourceLinkButtonView.xaml", "Controls/InformationResourceLinkButtonView.xaml", typeof(InformationResourceLinkButtonView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.NotificationView.xaml", "Controls/NotificationView.xaml", typeof(NotificationView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.OnboardingContentView.xaml", "Controls/OnboardingContentView.xaml", typeof(OnboardingContentView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.OnboardingIndicatorView.xaml", "Controls/OnboardingIndicatorView.xaml", typeof(OnboardingIndicatorView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.ResourceLinkView.xaml", "Controls/ResourceLinkView.xaml", typeof(ResourceLinkView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.SymptomView.xaml", "Controls/SymptomView.xaml", typeof(SymptomView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.TextAreaView.xaml", "Controls/TextAreaView.xaml", typeof(TextAreaView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.TextMessageButtonView.xaml", "Controls/TextMessageButtonView.xaml", typeof(TextMessageButtonView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.TwoColumnView.xaml", "Controls/TwoColumnView.xaml", typeof(TwoColumnView))]
+[assembly: XamlResourceId("HomeQuarantine.Controls.TwoRowView.xaml", "Controls/TwoRowView.xaml", typeof(TwoRowView))]
+[assembly: XamlResourceId("HomeQuarantine.Themes.DarkTheme.xaml", "Themes/DarkTheme.xaml", typeof(DarkTheme))]
+[assembly: XamlResourceId("HomeQuarantine.Themes.DesignSystem.xaml", "Themes/DesignSystem.xaml", typeof(DesignSystem))]
+[assembly: XamlResourceId("HomeQuarantine.Themes.Icons.xaml", "Themes/Icons.xaml", typeof(Icons))]
+[assembly: XamlResourceId("HomeQuarantine.Themes.LightTheme.xaml", "Themes/LightTheme.xaml", typeof(LightTheme))]
+[assembly: XamlResourceId("HomeQuarantine.Views.Base.BaseView.xaml", "Views/Base/BaseView.xaml", typeof(BaseView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.Base.CustomNavigationView.xaml", "Views/Base/CustomNavigationView.xaml", typeof(CustomNavigationView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.ComplianceCheckDisabledView.xaml", "Views/ComplianceCheckDisabledView.xaml", typeof(ComplianceCheckDisabledView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.ComplianceCheckSuccessfulView.xaml", "Views/ComplianceCheckSuccessfulView.xaml", typeof(ComplianceCheckSuccessfulView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.ComplianceCheckView.xaml", "Views/ComplianceCheckView.xaml", typeof(ComplianceCheckView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.ConnectionAlertView.xaml", "Views/ConnectionAlertView.xaml", typeof(ConnectionAlertView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.DesignSystemView.xaml", "Views/DesignSystemView.xaml", typeof(DesignSystemView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.ErrorView.xaml", "Views/ErrorView.xaml", typeof(ErrorView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.HasSymptomResultView.xaml", "Views/HasSymptomResultView.xaml", typeof(HasSymptomResultView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.InformationContentView.xaml", "Views/InformationContentView.xaml", typeof(InformationContentView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.LoginView.xaml", "Views/LoginView.xaml", typeof(LoginView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.MainView.xaml", "Views/MainView.xaml", typeof(MainView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.NoSymptomResultView.xaml", "Views/NoSymptomResultView.xaml", typeof(NoSymptomResultView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.NotificationDetailsView.xaml", "Views/NotificationDetailsView.xaml", typeof(NotificationDetailsView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.OnboardingHelpView.xaml", "Views/OnboardingHelpView.xaml", typeof(OnboardingHelpView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.OnboardingReferenceIDView.xaml", "Views/OnboardingReferenceIDView.xaml", typeof(OnboardingReferenceIDView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.OnboardingView.xaml", "Views/OnboardingView.xaml", typeof(OnboardingView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.OtherSymptomView.xaml", "Views/OtherSymptomView.xaml", typeof(OtherSymptomView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.SymptomCheckView.xaml", "Views/SymptomCheckView.xaml", typeof(SymptomCheckView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.TestingScheduleHelpView.xaml", "Views/TestingScheduleHelpView.xaml", typeof(TestingScheduleHelpView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.TestingScheduleView.xaml", "Views/TestingScheduleView.xaml", typeof(TestingScheduleView))]
+[assembly: XamlResourceId("HomeQuarantine.Views.ViewAllNotificationView.xaml", "Views/ViewAllNotificationView.xaml", typeof(ViewAllNotificationView))]
+[assembly: AssemblyCompany("HomeQuarantine")]
+[assembly: AssemblyConfiguration("Release")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0")]
+[assembly: AssemblyProduct("HomeQuarantine")]
+[assembly: AssemblyTitle("HomeQuarantine")]
+[assembly: AssemblyVersion("1.0.0.0")]
